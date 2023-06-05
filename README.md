@@ -1,5 +1,11 @@
 # vue-notes-app
 
+## site photo
+
+![name-of-you-image](./src/assets/noteApp.png)
+
+
+
 ## Project setup
 ```
 yarn install
