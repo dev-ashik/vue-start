@@ -1,4 +1,7 @@
 # vue-counter-app
+## site photo
+
+![name-of-you-image](./src/assets/vueCounterApp.png)
 
 ## Project setup
 ```
